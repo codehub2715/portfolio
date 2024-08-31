@@ -90,6 +90,11 @@ main hr{
     font-size: 14px;
     cursor: pointer;
 }
+
+.leftSection .btn:hover{
+    font-size: 0.9rem;
+}
+
 .rightSection img{
     width: 100%;
     margin: 47px 0;
